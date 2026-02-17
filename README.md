@@ -1,35 +1,34 @@
----
+# ▶️ How to Run the Project
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Start the Development Server
+## 🚀Start the Development Server
 
 ```bash
 npm run dev
+```
 
-👤 Step 1: Register a User
+Open in your browser:  
+http://localhost:5173
 
-Go to the Register page.
 
-Enter user details:
-Name
-Employee ID
-Branch / Department
-Capture the face using the camera.
-Save the user.
+# 📝 How to Use
 
-📷 Step 2: Capture Attendance
-Go to the Attendance page.
-Allow camera access.
-The system will:
-Detect your face
-Match it with registered users
-Automatically mark attendance
+## 👤 Register a User
 
-📊 Step 3: View Attendance Records
-Go to the Dashboard page.
-You can see:
-Total registered users
-Today's attendance count
-Attendance rate
-Recent attendance records
+Go to the **Register** page.  
+Enter Name, Employee ID, and Branch/Department.  
+Capture the face using the camera and save the user.
+
+
+## 📷 Mark Attendance
+
+Go to the **Attendance** page.  
+The system will detect your face, match it with registered users, and automatically mark attendance.
+
+
+## 📊 View Dashboard
+
+Go to the **Dashboard** page to view:
+- Total registered users  
+- Today's attendance  
+- Attendance rate  
+- Recent attendance records
