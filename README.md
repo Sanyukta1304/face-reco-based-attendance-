@@ -6,8 +6,7 @@
 npm run dev
 ```
 
-Open in your browser:  
-http://localhost:5173
+Once the server starts, the application will open in your browser.
 
 
 # 📝 How to Use
